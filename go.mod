@@ -14,14 +14,14 @@ require (
 	github.com/containerd/console v1.0.3
 	github.com/containerd/continuity v0.3.0
 	github.com/containerd/fifo v1.0.0
-	github.com/containerd/go-cni v1.1.6
+	github.com/containerd/go-cni v1.1.9
 	github.com/containerd/go-runc v1.0.0
 	github.com/containerd/imgcrypt v1.1.5-0.20220421044638-8ba028dca028
 	github.com/containerd/nri v0.2.0
 	github.com/containerd/ttrpc v1.1.1-0.20220420014843-944ef4a40df3
 	github.com/containerd/typeurl v1.0.3-0.20220422153119-7f6e6d160d67
 	github.com/containerd/zfs v1.0.0
-	github.com/containernetworking/cni v1.1.1
+	github.com/containernetworking/cni v1.1.2
 	github.com/containernetworking/plugins v1.1.1
 	github.com/coreos/go-systemd/v22 v22.3.2
 	github.com/davecgh/go-spew v1.1.1
